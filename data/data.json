@@ -1,1 +1,69 @@
-{}
+{
+  "team_id": 385936,
+  "events": [
+    {
+      "place": "34",
+      "event": "07CTF",
+      "event_url": "https://ctftime.org/event/2848",
+      "ctf_points": "1595.0000",
+      "rating_points": "0.000"
+    },
+    {
+      "place": "807",
+      "event": "BrunnerCTF 2025",
+      "event_url": "https://ctftime.org/event/2835",
+      "ctf_points": "225.0000",
+      "rating_points": "0.269"
+    },
+    {
+      "place": "39",
+      "event": "scriptCTF 2025",
+      "event_url": "https://ctftime.org/event/2792",
+      "ctf_points": "8675.0000",
+      "rating_points": "17.580"
+    },
+    {
+      "place": "221",
+      "event": "WHY2025 CTF",
+      "event_url": "https://ctftime.org/event/2680",
+      "ctf_points": "1050.0000",
+      "rating_points": "0.000"
+    },
+    {
+      "place": "390",
+      "event": "smileyCTF 2025",
+      "event_url": "https://ctftime.org/event/2591",
+      "ctf_points": "110.0000",
+      "rating_points": "0.770"
+    },
+    {
+      "place": "212",
+      "event": "DIVER OSINT CTF 2025",
+      "event_url": "https://ctftime.org/event/2751",
+      "ctf_points": "1458.0000",
+      "rating_points": "0.000"
+    },
+    {
+      "place": "110",
+      "event": "N0PSctf",
+      "event_url": "https://ctftime.org/event/2486",
+      "ctf_points": "1289.0000",
+      "rating_points": "3.834"
+    },
+    {
+      "place": "256",
+      "event": "D^3CTF 2025",
+      "event_url": "https://ctftime.org/event/2770",
+      "ctf_points": "200.0000",
+      "rating_points": "1.740"
+    },
+    {
+      "place": "246",
+      "event": "NahamCon CTF 2025",
+      "event_url": "https://ctftime.org/event/2782",
+      "ctf_points": "2077.0000",
+      "rating_points": "7.257"
+    }
+  ],
+  "last_updated": "2025-09-20T03:43:30.070189"
+}
