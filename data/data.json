@@ -2,11 +2,28 @@
   "team_id": 385936,
   "events": [
     {
+      "place": "206",
+      "event": "CrewCTF 2025",
+      "event_url": "https://ctftime.org/event/2704",
+      "ctf_points": "100.0000",
+      "rating_points": "0.687",
+      "team_count": 667,
+      "start_date": "2025-09-19T21:00:00+00:00",
+      "finish_date": "2025-09-21T21:00:00+00:00",
+      "duration": {
+        "hours": 0,
+        "days": 2
+      },
+      "logo_url": "https://ctftime.org/media/events/thc_icon_processed.png",
+      "format": "Jeopardy",
+      "participants": 187
+    },
+    {
       "place": "34",
       "event": "07CTF",
       "event_url": "https://ctftime.org/event/2848",
       "ctf_points": "1595.0000",
-      "rating_points": "0.000",
+      "rating_points": "5.176",
       "team_count": 439,
       "start_date": "2025-09-13T06:30:00+00:00",
       "finish_date": "2025-09-14T18:30:00+00:00",
@@ -40,7 +57,7 @@
       "event": "scriptCTF 2025",
       "event_url": "https://ctftime.org/event/2792",
       "ctf_points": "8675.0000",
-      "rating_points": "17.580",
+      "rating_points": "17.587",
       "team_count": 1189,
       "start_date": "2025-08-16T00:00:00+00:00",
       "finish_date": "2025-08-18T00:00:00+00:00",
@@ -155,5 +172,5 @@
       "participants": 180
     }
   ],
-  "last_updated": "2025-09-20T16:02:05.020611"
+  "last_updated": "2025-09-22T10:45:29.430999"
 }
