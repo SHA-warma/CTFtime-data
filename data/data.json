@@ -19,6 +19,23 @@
       "participants": 119
     },
     {
+      "place": "216",
+      "event": "0CTF 2025",
+      "event_url": "https://ctftime.org/event/2997",
+      "ctf_points": "24.0000",
+      "rating_points": "0.673",
+      "team_count": 453,
+      "start_date": "2025-12-20T00:00:00+00:00",
+      "finish_date": "2025-12-22T00:00:00+00:00",
+      "duration": {
+        "hours": 0,
+        "days": 2
+      },
+      "logo_url": "",
+      "format": "Jeopardy",
+      "participants": 169
+    },
+    {
       "place": "206",
       "event": "CrewCTF 2025",
       "event_url": "https://ctftime.org/event/2704",
@@ -189,5 +206,5 @@
       "participants": 180
     }
   ],
-  "last_updated": "2025-12-24T14:54:47.126149"
+  "last_updated": "2025-12-29T10:49:59.547085"
 }
