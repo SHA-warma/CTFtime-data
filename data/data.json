@@ -2,6 +2,24 @@
   "team_id": 385936,
   "events": [
     {
+      "event_id": "3021",
+      "place": "134",
+      "event": "New Year CTF 2026",
+      "event_url": "https://ctftime.org/event/3021",
+      "ctf_points": "1100.0000",
+      "rating_points": "2.404",
+      "team_count": 556,
+      "start_date": "2026-01-10T09:00:00+00:00",
+      "finish_date": "2026-01-12T09:00:00+00:00",
+      "duration": {
+        "hours": 0,
+        "days": 2
+      },
+      "logo_url": "https://ctftime.org/media/events/NY2026.jpg",
+      "format": "Jeopardy",
+      "participants": 93
+    },
+    {
       "place": "131",
       "event": "TSG CTF 2025",
       "event_url": "https://ctftime.org/event/2867",
@@ -16,7 +34,8 @@
       },
       "logo_url": "https://ctftime.org/media/events/TSG_CTF.png",
       "format": "Jeopardy",
-      "participants": 119
+      "participants": 119,
+      "event_id": "2867"
     },
     {
       "place": "216",
@@ -33,7 +52,8 @@
       },
       "logo_url": "",
       "format": "Jeopardy",
-      "participants": 169
+      "participants": 169,
+      "event_id": "2997"
     },
     {
       "place": "206",
@@ -50,7 +70,8 @@
       },
       "logo_url": "https://ctftime.org/media/events/thc_icon_processed.png",
       "format": "Jeopardy",
-      "participants": 187
+      "participants": 187,
+      "event_id": "2704"
     },
     {
       "place": "34",
@@ -67,7 +88,8 @@
       },
       "logo_url": "https://ctftime.org/media/events/logo_112.png",
       "format": "Jeopardy",
-      "participants": 68
+      "participants": 68,
+      "event_id": "2848"
     },
     {
       "place": "807",
@@ -84,7 +106,8 @@
       },
       "logo_url": "https://ctftime.org/media/events/Discord_logo_-_2-6.png",
       "format": "Jeopardy",
-      "participants": 137
+      "participants": 137,
+      "event_id": "2835"
     },
     {
       "place": "39",
@@ -101,7 +124,8 @@
       },
       "logo_url": "https://ctftime.org/media/events/final_logo.png",
       "format": "Jeopardy",
-      "participants": 222
+      "participants": 222,
+      "event_id": "2792"
     },
     {
       "place": "221",
@@ -118,7 +142,8 @@
       },
       "logo_url": "",
       "format": "Jeopardy",
-      "participants": 225
+      "participants": 225,
+      "event_id": "2680"
     },
     {
       "place": "390",
@@ -135,7 +160,8 @@
       },
       "logo_url": "https://ctftime.org/media/events/smiley.png",
       "format": "Jeopardy",
-      "participants": 215
+      "participants": 215,
+      "event_id": "2591"
     },
     {
       "place": "212",
@@ -152,7 +178,8 @@
       },
       "logo_url": "https://ctftime.org/media/events/logo_circle.png",
       "format": "Jeopardy",
-      "participants": 94
+      "participants": 94,
+      "event_id": "2751"
     },
     {
       "place": "110",
@@ -169,7 +196,8 @@
       },
       "logo_url": "https://ctftime.org/media/events/logo-news.png",
       "format": "Jeopardy",
-      "participants": 176
+      "participants": 176,
+      "event_id": "2486"
     },
     {
       "place": "256",
@@ -186,7 +214,8 @@
       },
       "logo_url": "https://ctftime.org/media/events/ddd_1.png",
       "format": "Jeopardy",
-      "participants": 126
+      "participants": 126,
+      "event_id": "2770"
     },
     {
       "place": "246",
@@ -203,8 +232,9 @@
       },
       "logo_url": "https://ctftime.org/media/events/NAHAMCON-LOGOBRANDING_D3_A3.png",
       "format": "Jeopardy",
-      "participants": 180
+      "participants": 180,
+      "event_id": "2782"
     }
   ],
-  "last_updated": "2026-01-05T10:52:04.658997"
+  "last_updated": "2026-01-13T11:36:26.325949"
 }
