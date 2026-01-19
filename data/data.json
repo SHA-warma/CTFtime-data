@@ -2,6 +2,24 @@
   "team_id": 385936,
   "events": [
     {
+      "event_id": "2986",
+      "place": "168",
+      "event": "SWIMMER OSINT CTF",
+      "event_url": "https://ctftime.org/event/2986",
+      "ctf_points": "2774.0000",
+      "rating_points": "0.000",
+      "team_count": 686,
+      "start_date": "2026-01-17T03:10:00+00:00",
+      "finish_date": "2026-01-17T15:10:00+00:00",
+      "duration": {
+        "hours": 12,
+        "days": 0
+      },
+      "logo_url": "https://ctftime.org/media/events/circle-white-text.png",
+      "format": "Jeopardy",
+      "participants": 215
+    },
+    {
       "event_id": "3021",
       "place": "134",
       "event": "New Year CTF 2026",
@@ -236,5 +254,5 @@
       "event_id": "2782"
     }
   ],
-  "last_updated": "2026-01-13T11:36:26.325949"
+  "last_updated": "2026-01-19T10:55:32.667083"
 }
