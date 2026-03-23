@@ -2,6 +2,24 @@
   "team_id": 385936,
   "events": [
     {
+      "event_id": "3095",
+      "place": "366",
+      "event": "TAMUctf 2026",
+      "event_url": "https://ctftime.org/event/3095",
+      "ctf_points": "251.0000",
+      "rating_points": "9.689",
+      "team_count": 697,
+      "start_date": "2026-03-20T22:00:00+00:00",
+      "finish_date": "2026-03-22T22:00:00+00:00",
+      "duration": {
+        "hours": 0,
+        "days": 2
+      },
+      "logo_url": "https://ctftime.org/media/events/TAMUctf-logo.png",
+      "format": "Jeopardy",
+      "participants": 293
+    },
+    {
       "event_id": "2986",
       "place": "168",
       "event": "SWIMMER OSINT CTF",
@@ -254,5 +272,5 @@
       "event_id": "2782"
     }
   ],
-  "last_updated": "2026-03-16T11:27:30.283870"
+  "last_updated": "2026-03-23T11:24:45.940976"
 }
