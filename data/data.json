@@ -2,6 +2,24 @@
   "team_id": 385936,
   "events": [
     {
+      "event_id": "3268",
+      "place": "303",
+      "event": "DIVER OSINT CTF 2026",
+      "event_url": "https://ctftime.org/event/3268",
+      "ctf_points": "1523.0000",
+      "rating_points": "0.000",
+      "team_count": 865,
+      "start_date": "2026-07-25T03:10:00+00:00",
+      "finish_date": "2026-07-26T03:10:00+00:00",
+      "duration": {
+        "hours": 0,
+        "days": 1
+      },
+      "logo_url": "https://ctftime.org/media/events/circle-white-simple-01.png",
+      "format": "Jeopardy",
+      "participants": 160
+    },
+    {
       "event_id": "3095",
       "place": "366",
       "event": "TAMUctf 2026",
@@ -272,5 +290,5 @@
       "event_id": "2782"
     }
   ],
-  "last_updated": "2026-07-27T13:25:15.936710"
+  "last_updated": "2026-08-03T13:25:07.096429"
 }
